@@ -3,6 +3,8 @@
 #2. Ocean Neupane (ACE080BCT043)
 #3. Niraj Kumar Jha (ACE080BCT040)
 
+#LOGISTIC REGRESSION
+
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
